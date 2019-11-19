@@ -1,11 +1,11 @@
 title: Test
 author: This is a test
 email: your-email@domain.com
-description: > 
+description: Testing...
 # social links
 twitter_username: your-twitter-handle
 github_username:  your-github-handle
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: false
 
 theme: minima
