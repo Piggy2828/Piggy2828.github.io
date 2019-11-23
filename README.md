@@ -1,1 +1,1 @@
-### Resources
+# Helpful Tips
