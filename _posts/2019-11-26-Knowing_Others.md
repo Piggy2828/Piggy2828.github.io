@@ -23,4 +23,4 @@ This one's simple. Nobody likes a know-it-all. Just don't do it. You're making y
 If you've ever forgotten anybody's name in the first three minutes of meeting them, you're self-absorbed. Welcome to society! We only care about ourselves and will *always* put our well-being above others. 
 
 ### 4. Loves showing off
-This one's a must. In order to fit in to society, you must look like you belong. All people love to hide their expensive stuff and make you ask them what they are. An example would be putting your latest iPhone into your jacket pocket so it sticks out *just a bit*, enough to get people's attention. When they ask, you say "Oh, this old thing?" and explain how you bought it with your day's salary.
+This one's a must. In order to fit in to society, you must look like you belong. All people love to hide their expensive stuff and make you ask them what they are. An example would be putting your latest iPhone into your jacket pocket so it sticks out *just a bit*, enough to get people's attention. When they ask, you say, "Oh, this old thing?" and explain how you bought it with your day's salary.
