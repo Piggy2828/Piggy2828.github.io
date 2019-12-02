@@ -1,5 +1,5 @@
 ---
-title: "Step 2: Knowing Others"
+title: "Step Two: Knowing Others"
 date: 2019-11-19
 ---
 
