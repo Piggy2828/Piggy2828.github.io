@@ -1,5 +1,5 @@
 ---
-title: "Step Two: Knowing Others"
+title: "Step Two: Knowing Society"
 date: 1955-01-02
 ---
 
@@ -9,9 +9,7 @@ date: 1955-01-02
 
 #### Most people want to fit into society. Why would you want to be the outsider, endlessly shamed for your stangeness? However, most people are alienated because they are different than what is socially acepted. They fit into a bad stereotype. But enough about stereotypes. You already know about that. It's time to move on to learning about what everybody does, so you can change yourelf to fit in. 
 
-### Without further ado, here are the charcteristics of those you who want to become!
-
-# Characteristics of Society
+## Without further ado, here are the charcteristics of those you who want to become!
 
 ### 1. Not obsessed with anything
 Have you ever nerded out about anything? Made yourself sound like a total geek in front of everybody? Nobody likes a guy who rants all day about something super boring. 
