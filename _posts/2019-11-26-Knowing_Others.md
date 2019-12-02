@@ -21,5 +21,3 @@ This one's simple. Nobody likes a know-it-all. Just don't do it. You're making y
 
 ### 3. Self-absorbed
 If you've ever forgotten anybody's name in the first three minutes of meeting them, you're self-absorbed. Welcome to society! We only care about ourselves and will *always* put our well-being above others. 
-
-### 4. 
