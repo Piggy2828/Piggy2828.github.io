@@ -1,6 +1,6 @@
 ---
 title: "Step Two: Knowing Society"
-date: 1955-01-02
+date: 1955-05-24
 ---
 
 ## Now that you know who you are, let's move on to what you want to be a part of.
